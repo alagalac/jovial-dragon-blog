@@ -3,6 +3,7 @@ title: 'To talk of many things'
 date: Sun, 02 Feb 2014 07:56:08 +0000
 draft: false
 tags: [India, Planning]
+categories: [India]
 ---
 
 Blogs. They're the in thing these days. Nuff said. With any luck this blog will be a vehicle to chronicle my adventures and whatever happens in between. Or I'll get lazy and the last thing you'll know is I am lost in a jungle. Never to be heard from again. Lately I'm been doing much planning for my upcoming trip to India. Booking travel insurance isn't very fun. I do however have a list of much less fun things:

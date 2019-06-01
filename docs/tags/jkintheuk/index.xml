@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JKintheUK on Jovial Dragon blog</title>
+    <link>http://example.org/tags/jkintheuk/</link>
+    <description>Recent content in JKintheUK on Jovial Dragon blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Apr 2017 08:49:50 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/jkintheuk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>London calling</title>
+      <link>http://example.org/blog/london-calling/</link>
+      <pubDate>Wed, 05 Apr 2017 08:49:50 +0000</pubDate>
+      
+      <guid>http://example.org/blog/london-calling/</guid>
+      <description>Hi everyone, Kimmie here. Welcome to our next blogging adventure! In January, we bought one-way tickets to London (departing May 7, 2017). This was a very emotional decision for us. We’d been talking about moving to the U.K. for several years. It was one of those topics that our friends probably got sick of us mentioning. They were probably sceptical about whether we’d ever actually do it. Fair enough too. We weren’t entirely convinced we would either.</description>
+    </item>
+    
+  </channel>
+</rss>

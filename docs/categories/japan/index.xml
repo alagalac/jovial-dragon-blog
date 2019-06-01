@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Japan on Jovial Dragon blog</title>
+    <link>http://example.org/categories/japan/</link>
+    <description>Recent content in Japan on Jovial Dragon blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Sep 2015 13:55:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/japan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5 minutes to spare</title>
+      <link>http://example.org/blog/japan/5-minutes-to-spare/</link>
+      <pubDate>Thu, 03 Sep 2015 13:55:27 +0000</pubDate>
+      
+      <guid>http://example.org/blog/japan/5-minutes-to-spare/</guid>
+      <description>So the day started early. We checked out of the Ibis at 4am. We never saw the hotel in the daylight.  Our plane was the second one of the day. Conveniently Auckland has KFC at the airport. How convenient? Popcorn chicken for brekky it was. The first flight was pretty uneventful. I was hoping the Gold Coast airport would have another KFC so I could take a bucket on the next plane for lunch.</description>
+    </item>
+    
+  </channel>
+</rss>

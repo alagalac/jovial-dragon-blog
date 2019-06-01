@@ -3,3 +3,19 @@ languageCode = "en-us"
 title = "Jovial Dragon blog"
 theme = "hugo-principles"
 publishDir = "docs"
+
+[[menu.main]]
+  name = "Thailand"
+  weight = 1
+  identifier = "blog"
+  url = "/categories/thailand"
+[[menu.main]]
+  name = "Japan"
+  weight = 2
+  identifier = "blog2"
+  url = "/categories/japan"
+[[menu.main]]
+  name = "Jase's India adventure"
+  weight = 3
+  identifier = "blog3"
+  url = "/categories/india"

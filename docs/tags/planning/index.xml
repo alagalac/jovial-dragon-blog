@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planning on Jovial Dragon blog</title>
+    <link>http://example.org/tags/planning/</link>
+    <description>Recent content in Planning on Jovial Dragon blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2014 07:56:08 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/planning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>To talk of many things</title>
+      <link>http://example.org/blog/india/to-talk-of-many-things/</link>
+      <pubDate>Sun, 02 Feb 2014 07:56:08 +0000</pubDate>
+      
+      <guid>http://example.org/blog/india/to-talk-of-many-things/</guid>
+      <description>Blogs. They&amp;rsquo;re the in thing these days. Nuff said. With any luck this blog will be a vehicle to chronicle my adventures and whatever happens in between. Or I&amp;rsquo;ll get lazy and the last thing you&amp;rsquo;ll know is I am lost in a jungle. Never to be heard from again. Lately I&amp;rsquo;m been doing much planning for my upcoming trip to India. Booking travel insurance isn&amp;rsquo;t very fun. I do however have a list of much less fun things:</description>
+    </item>
+    
+  </channel>
+</rss>

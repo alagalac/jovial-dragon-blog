@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallery on Jovial Dragon blog</title>
+    <link>http://example.org/tags/gallery/</link>
+    <description>Recent content in Gallery on Jovial Dragon blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Oct 2015 03:23:14 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Closing thoughts</title>
+      <link>http://example.org/blog/japan/closing-thoughts/</link>
+      <pubDate>Sun, 04 Oct 2015 03:23:14 +0000</pubDate>
+      
+      <guid>http://example.org/blog/japan/closing-thoughts/</guid>
+      <description>The good:
+ Japan was actually surprisingly green. In the cities, only the flat land is built on, and the hills are left for forest reserves. When you get outside of the cities, the countryside is mostly hilly forests, with the occasional cute traditional town and rice paddies. The Shinkansen trains were pretty amazing. Far more comfortable, and way less hassle than flying. The rides were really smooth too. At one point in Kyoto the train to Osaka was three minutes late, and we had somebody come out onto the platform to apologise to us.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/check-out-our-brand-new-blog-site/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/jkintheuk/</loc>
+    <lastmod>2017-04-05T08:49:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/london/</loc>
+    <lastmod>2017-04-05T08:49:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/london-calling/</loc>
+    <lastmod>2017-04-05T08:49:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/new-zealand/</loc>
+    <lastmod>2017-04-05T08:49:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2017-04-05T08:49:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/united-kingdom/</loc>
+    <lastmod>2017-04-05T08:49:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/youth-mobility-visa/</loc>
+    <lastmod>2017-04-05T08:49:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2017-03-26T01:27:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/closing-thoughts-2/</loc>
+    <lastmod>2016-12-07T03:36:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/thailand/</loc>
+    <lastmod>2016-12-07T03:36:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/our-last-full-day-in-thailand/</loc>
+    <lastmod>2016-11-28T15:14:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/the-endless-market/</loc>
+    <lastmod>2016-11-27T11:08:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/good-views-and-a-new-hairdo/</loc>
+    <lastmod>2016-11-27T03:14:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/parks-and-recreation/</loc>
+    <lastmod>2016-11-25T13:38:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/all-you-can-eat-sushi-may-not-be-such-a-great-idea/</loc>
+    <lastmod>2016-11-24T13:52:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/cabbages-and-condoms/</loc>
+    <lastmod>2016-11-23T14:50:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/the-time-we-walked-up-a-golden-mountain/</loc>
+    <lastmod>2016-11-22T14:20:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/the-thai-mafia-mall/</loc>
+    <lastmod>2016-11-21T13:21:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/goodbye-chiang-mai/</loc>
+    <lastmod>2016-11-20T14:47:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/fly-like-a-gibbon/</loc>
+    <lastmod>2016-11-19T12:56:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/a-walk-on-the-wild-side/</loc>
+    <lastmod>2016-11-18T14:34:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/chiang-mai-master-chef/</loc>
+    <lastmod>2016-11-17T12:18:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/lets-be-one-with-the-elephants/</loc>
+    <lastmod>2016-11-16T11:39:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/a-foodcoffee-bloggers-dream-come-true/</loc>
+    <lastmod>2016-11-15T15:19:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/the-lantern-journey/</loc>
+    <lastmod>2016-11-15T01:16:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/its-definitely-not-going-to-rain-today/</loc>
+    <lastmod>2016-11-13T15:02:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/indian-italian-thai/</loc>
+    <lastmod>2016-11-12T13:32:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/exploring-phuket-town/</loc>
+    <lastmod>2016-11-11T14:03:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/phuket-town-cafe-town/</loc>
+    <lastmod>2016-11-10T15:47:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/partying-in-phang-nga/</loc>
+    <lastmod>2016-11-09T15:15:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/good-night-good-morning/</loc>
+    <lastmod>2016-11-08T12:39:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/massage/</loc>
+    <lastmod>2016-11-07T08:09:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/the-longest-day/</loc>
+    <lastmod>2016-11-06T10:40:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/the-land-of-smiles/</loc>
+    <lastmod>2016-10-30T10:19:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/closing-thoughts/</loc>
+    <lastmod>2015-10-04T03:23:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/gallery/</loc>
+    <lastmod>2015-10-04T03:23:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/japan/</loc>
+    <lastmod>2015-10-04T03:23:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/a-fleeting-visit-to-future-land/</loc>
+    <lastmod>2015-09-23T02:41:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/sports-day/</loc>
+    <lastmod>2015-09-21T11:03:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/all-that-shimmers-in-shinjuku/</loc>
+    <lastmod>2015-09-20T15:39:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/back-to-tokyo/</loc>
+    <lastmod>2015-09-20T15:37:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/monkeying-around/</loc>
+    <lastmod>2015-09-18T13:05:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/whale-shark/</loc>
+    <lastmod>2015-09-17T13:39:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/kyoto-kaleidascope/</loc>
+    <lastmod>2015-09-16T12:05:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/a-magical-maiko-makeover/</loc>
+    <lastmod>2015-09-15T13:27:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/mall-mania/</loc>
+    <lastmod>2015-09-14T13:46:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/making-momiji-manjyu-on-mount-misen/</loc>
+    <lastmod>2015-09-13T12:40:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/deer-diary/</loc>
+    <lastmod>2015-09-12T14:31:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/we-come-in-peace/</loc>
+    <lastmod>2015-09-11T13:57:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/rain-rain-go-away/</loc>
+    <lastmod>2015-09-10T12:59:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/world-famous-in-japan/</loc>
+    <lastmod>2015-09-09T11:57:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/japans-el-dorado/</loc>
+    <lastmod>2015-09-08T11:26:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/pretty-fly-for-a-samurai/</loc>
+    <lastmod>2015-09-07T11:12:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/watching-japan-pass-us-by/</loc>
+    <lastmod>2015-09-06T11:01:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/crossings-and-coffee/</loc>
+    <lastmod>2015-09-05T09:53:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/electric-town/</loc>
+    <lastmod>2015-09-04T23:11:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/5-minutes-to-spare/</loc>
+    <lastmod>2015-09-03T13:55:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2015-09-03T13:55:27+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/japan/</loc>
+    <lastmod>2015-09-03T13:55:27+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/school-reunion/</loc>
+    <lastmod>2015-09-02T10:39:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/japan/i-count-the-minutes-i-count-the-hours/</loc>
+    <lastmod>2015-09-01T10:29:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/welcome-to-our-blog/</loc>
+    <lastmod>2015-08-23T10:57:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/india/</loc>
+    <lastmod>2014-03-23T09:27:27+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/sleepless-in-singapore/</loc>
+    <lastmod>2014-03-23T09:27:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/vip-in-delhi/</loc>
+    <lastmod>2014-03-22T09:15:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/thailand/big-buddha/</loc>
+    <lastmod>2014-03-21T11:42:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/sailing-the-ganges/</loc>
+    <lastmod>2014-03-19T02:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/agra/</loc>
+    <lastmod>2014-03-18T09:54:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/indian-astronomers/</loc>
+    <lastmod>2014-03-16T15:59:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/the-pushkar-monkey-crisis/</loc>
+    <lastmod>2014-03-13T06:08:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/pizzas-in-pushkar/</loc>
+    <lastmod>2014-03-12T23:27:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/party-in-udaipur/</loc>
+    <lastmod>2014-03-11T10:30:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/shopping-safari/</loc>
+    <lastmod>2014-03-09T15:38:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/lost-in-jaisalmer/</loc>
+    <lastmod>2014-03-08T23:37:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/ricky-and-the-rats/</loc>
+    <lastmod>2014-03-07T10:52:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/the-ships-of-the-desert/</loc>
+    <lastmod>2014-03-06T06:19:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/training-for-bikaner/</loc>
+    <lastmod>2014-03-05T04:07:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/a-day-in-delhi/</loc>
+    <lastmod>2014-03-04T10:28:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/no-gracias/</loc>
+    <lastmod>2014-03-03T11:46:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/arrived/</loc>
+    <lastmod>2014-03-03T03:15:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/flight-2/</loc>
+    <lastmod>2014-03-02T16:27:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/flight-1/</loc>
+    <lastmod>2014-03-02T06:34:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/the-real-departure-lounge/</loc>
+    <lastmod>2014-03-02T00:38:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/planning/</loc>
+    <lastmod>2014-02-02T07:56:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/india/to-talk-of-many-things/</loc>
+    <lastmod>2014-02-02T07:56:08+00:00</lastmod>
+  </url>
+  
+</urlset>
