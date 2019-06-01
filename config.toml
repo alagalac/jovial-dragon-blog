@@ -1,3 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Jovial Dragon blog"
+theme = "hugo-principles"
+publishDir = "docs"

@@ -1,0 +1,7 @@
+---
+title: 'About'
+date: Sun, 26 Mar 2017 01:27:13 +0000
+draft: false
+---
+
+Hello, and welcome to our blog! We're Jason and Kimmie. A couple of kiwis from down-under. Well, Jase's a kiwi-brit and Kimmie's a kiwi-aussie. We both grew up in New Zealand, anyway. \[caption id="attachment_1289" align="alignnone" width="960"\]![17554729_1340503655996185_314925974_n](https://jovialdragon.files.wordpress.com/2017/03/17554729_1340503655996185_314925974_n.jpg) Jase and Kimmie in a field of lupines - South Island, New Zealand\[/caption\] We had a hard time thinking of a name for our blog. We went through all sorts of weird names: chocolatesushi, sushimagic, mangosushi…. (Jase had sushi on the brain) Then Jase decided that we should combine two words that start with the first letter of our names. He came up with jovial. I could not think of a cool k word. I do like dragons though.  …and that is how jovialdragon was born. The purpose of our blog is to share our travel adventures with you. Originally, we started this blog for our Japan trip, but we had so much fun writing about our travels that we continued to blog during our subsequent travels. We also merged this blog with Jase's blog about India. We hope you enjoy our blogs! Please comment and laugh at our weird jokes! :)   Cheers Jase and Kimme ~jovialdragon~
