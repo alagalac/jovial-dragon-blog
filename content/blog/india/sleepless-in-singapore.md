@@ -19,6 +19,8 @@ The flight to Singapore was fairly uneventful, primarily because I was really sl
 
 At Changi airport I booked a free tour of Singapore. That was fun. We took a bus through the city and had a brief stop by the Merlion. It was really hot!
 
+{{< figure src="/img/india/sleepless-in-singapore/sleepless_singapore_merlion.jpg" title="By the merlion" >}}
+
 Back at the airport I made my way through the terminals, visiting the orchid, cactus, bamboo, butterfly, and sunflower gardens. They're really pretty. I also spent time at the movie theatre watching the fantastic four.
 
 {{< figure src="/img/india/sleepless-in-singapore/sleepless_singapore_sunflower.jpg" title="The sunflower garden" >}}
@@ -32,5 +34,3 @@ I could have checked in my alcohol, but to do that I'd need to clear Singapore's
 In the end I had to ditch the alcohol. I opted to open it up and at least enjoy some of it. The result was my most expensive rum and coke ever.
 
 {{< figure src="/img/india/sleepless-in-singapore/sleepless_singapore_drink.jpg" title="I had to drink them..." >}}
-
-[![20140323-172618.jpg](http://indiaana.files.wordpress.com/2014/03/20140323-172618.jpg)](http://indiaana.files.wordpress.com/2014/03/20140323-172618.jpg)
