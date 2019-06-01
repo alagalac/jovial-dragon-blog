@@ -1,6 +1,7 @@
 ---
 title: 'A day in Delhi'
 date: 04 Mar 2014
+cover: "/img/india/a-day-in-delhi/delhi_book.jpg"
 tags: [India]
 categories: [India]
 ---
