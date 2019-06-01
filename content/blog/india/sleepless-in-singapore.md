@@ -13,6 +13,8 @@ At 7 Sophia and I caught a taxi over to the airport. Security is surprisingly ti
 
 I bought a bottle of rum and a bottle of lemongrass vodka to share back home.
 
+{{< figure src="/img/india/sleepless-in-singapore/sleepless_singapore_drink2.jpg" title="My drinks" >}}
+
 The flight to Singapore was fairly uneventful, primarily because I was really sleepy. God knows why they serve dinner on a flight after midnight. They ran out of the western style dinner so I ended up with an odd Indian one. I didn't know what half the stuff was and it didn't taste great.
 
 At Changi airport I booked a free tour of Singapore. That was fun. We took a bus through the city and had a brief stop by the Merlion. It was really hot!
@@ -25,12 +27,10 @@ Back at the airport I made my way through the terminals, visiting the orchid, ca
 
 I noticed that the duty free stores have special instructions for people going to Australia. After a few enquiries it became apparent that you can only take carry on alcohol to Australia if it was purchased at the airport you're flying from. Bugger.
 
-{{< figure src="/img/india/sleepless-in-singapore/sleepless_singapore_drink2.jpg" title="My drinks" >}}
-
 I could have checked in my alcohol, but to do that I'd need to clear Singapore's customs which only allow one bottle and then re-check in.
 
 In the end I had to ditch the alcohol. I opted to open it up and at least enjoy some of it. The result was my most expensive rum and coke ever.
 
 {{< figure src="/img/india/sleepless-in-singapore/sleepless_singapore_drink.jpg" title="I had to drink them..." >}}
 
-[![20140323-172618.jpg](http://indiaana.files.wordpress.com/2014/03/20140323-172618.jpg)](http://indiaana.files.wordpress.com/2014/03/20140323-172618.jpg) [![20140323-172638.jpg](http://indiaana.files.wordpress.com/2014/03/20140323-172638.jpg)](http://indiaana.files.wordpress.com/2014/03/20140323-172638.jpg) [![20140323-172654.jpg](http://indiaana.files.wordpress.com/2014/03/20140323-172654.jpg)](http://indiaana.files.wordpress.com/2014/03/20140323-172654.jpg) [![20140323-172707.jpg](http://indiaana.files.wordpress.com/2014/03/20140323-172707.jpg)](http://indiaana.files.wordpress.com/2014/03/20140323-172707.jpg) [![20140323-172721.jpg](http://indiaana.files.wordpress.com/2014/03/20140323-172721.jpg)](http://indiaana.files.wordpress.com/2014/03/20140323-172721.jpg)
+[![20140323-172618.jpg](http://indiaana.files.wordpress.com/2014/03/20140323-172618.jpg)](http://indiaana.files.wordpress.com/2014/03/20140323-172618.jpg)
