@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Admin on Jovial Dragon blog</title>
+    <link>http://example.org/categories/admin/</link>
+    <description>Recent content in Admin on Jovial Dragon blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Check out our brand new blog site!</title>
+      <link>http://example.org/blog/check-out-our-brand-new-blog-site/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/check-out-our-brand-new-blog-site/</guid>
+      <description>Hi everyone Exciting news! We&amp;rsquo;ll be blogging about our UK adventures on our brand new website:
+http://coupleofkiwis.com/
+Please migrate over to this site if you&amp;rsquo;d like to continue to follow our adventures!
+Cheers
+Jase and Kimmie</description>
+    </item>
+    
+    <item>
+      <title>London calling</title>
+      <link>http://example.org/blog/london-calling/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/london-calling/</guid>
+      <description>Hi everyone, welcome to our next blogging adventure!
+In January, we bought one-way tickets to London (departing May 7, 2017). This was a very emotional decision for us. We’d been talking about moving to the U.K. for several years. It was one of those topics that our friends probably got sick of us mentioning. They were probably sceptical about whether we’d ever actually do it. Fair enough too. We weren’t entirely convinced we would either.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to our blog!</title>
+      <link>http://example.org/blog/welcome-to-our-blog/</link>
+      <pubDate>Sun, 23 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/welcome-to-our-blog/</guid>
+      <description>Hello everyone, and welcome!
+You know, we had a hard time thinking of a name for our blog. We went through all sorts of weird names: chocolatesushi, sushimagic, mangosushi&amp;hellip;. (Jase has sushi on the brain) Then Jase decided that we should combine two words that start with the first letter of our names. He came up with jovial. I could not think of a cool k word. I do like dragons though.</description>
+    </item>
+    
+  </channel>
+</rss>
