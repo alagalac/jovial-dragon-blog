@@ -1,6 +1,7 @@
 ---
 title: 'Sleepless in Singapore'
 date: 23 Mar 2014
+cover: "/img/india/sleepless-in-singapore/sleepless_singapore_merlion.jpg"
 tags: [India]
 categories: [India]
 ---
