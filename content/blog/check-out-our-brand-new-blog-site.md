@@ -1,7 +1,7 @@
 ---
 title: 'Check out our brand new blog site!'
 date: 01 May 2017
-cover: "/img/coupleofkiwisheader.png"
+cover: "/img/coupleofkiwisheader.jpg"
 categories: [Admin]
 ---
 

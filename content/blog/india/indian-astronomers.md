@@ -38,6 +38,10 @@ We got off by the city palace and went into the observatory. It was created a fe
 
 Jaipur is a pretty big city. On a scale from 1 to bad, the traffic is crazy bad. When you're riding around in a tuktuk is feels like you're inhaling a lot of fumes. You can hardly breathe. Lots of deafening horns, and street vendors trying to fleece tourists too.
 
+{{< figure src="/img/india/indian-astronomers/astronomers_paint.jpg" title="The paints on sale for Holi" >}}
+
+{{< figure src="/img/india/indian-astronomers/astronomers_traffic.jpg" title="Yes, that is a donkey and cart in the middle!" >}}
+
 We went to the local mall afterwards. For dinner we ate at the food court. The food was pretty standard for what you'd expect from a food court. Greasy. There was some interesting masala corn which we tried.
 
 {{< figure src="/img/india/indian-astronomers/astronomers_mall.jpg" title="The empty mall" >}}

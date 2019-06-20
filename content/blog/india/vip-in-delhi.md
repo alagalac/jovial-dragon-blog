@@ -20,9 +20,6 @@ The VIP lounge was really nice. There was a huge area surrounded by small mirror
 
 After a while we left to go and get some food at another posh hotel. The food was delicious. At the risk of mentioning toilets twice in one blog post, I'd have to say that the urinals at this hotel were the best I've ever seen. You had your own privately decorated area, with soft carpet underfoot. Then there were lovely warm heat lamps directed at you while you pee. We need toilets like this in Wellington!
 
-
 {{< figure src="/img/india/vip-in-delhi/vip_art.jpg" title="Inside the restaurant" >}}
 
 The drive back was an experience. One of Mack's cousins was driving. We were doing about 160 down the highway in a 50 zone. Red lights weren't an issue either, although at that time of night nobody obeys red lights. The Delhi police had a tendency to leave barriers in the road to force cars to slow down, but we swerved around those at speed throwing all of us in the back around.
-
-[![20140322-100529.jpg](http://indiaana.files.wordpress.com/2014/03/20140322-100529.jpg)](http://indiaana.files.wordpress.com/2014/03/20140322-100529.jpg) [![20140322-100537.jpg](http://indiaana.files.wordpress.com/2014/03/20140322-100537.jpg)](http://indiaana.files.wordpress.com/2014/03/20140322-100537.jpg) [![20140322-100518.jpg](http://indiaana.files.wordpress.com/2014/03/20140322-100518.jpg)](http://indiaana.files.wordpress.com/2014/03/20140322-100518.jpg) [![20140322-100500.jpg](http://indiaana.files.wordpress.com/2014/03/20140322-100500.jpg)](http://indiaana.files.wordpress.com/2014/03/20140322-100500.jpg)
