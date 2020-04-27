@@ -1,23 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://example.org/categories/admin/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.org/blog/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.org/categories/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -26,15 +23,8 @@
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://example.org/tags/london/</loc>
     <lastmod>2017-04-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -45,17 +35,20 @@
   <url>
     <loc>http://example.org/tags/</loc>
     <lastmod>2017-04-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.org/tags/youth-mobility-visa/</loc>
     <lastmod>2017-04-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.org/about/</loc>
+    <lastmod>2017-03-26T01:27:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
     <lastmod>2017-03-26T01:27:13+00:00</lastmod>
   </url>
   
@@ -67,7 +60,6 @@
   <url>
     <loc>http://example.org/tags/thailand/</loc>
     <lastmod>2016-12-07T03:36:19+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -198,13 +190,11 @@
   <url>
     <loc>http://example.org/tags/gallery/</loc>
     <lastmod>2015-10-04T03:23:14+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.org/tags/japan/</loc>
     <lastmod>2015-10-04T03:23:14+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -310,7 +300,6 @@
   <url>
     <loc>http://example.org/categories/japan/</loc>
     <lastmod>2015-09-03T13:55:27+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -329,15 +318,13 @@
   </url>
   
   <url>
-    <loc>http://example.org/categories/india/</loc>
+    <loc>http://example.org/tags/india/</loc>
     <lastmod>2014-03-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/india/</loc>
+    <loc>http://example.org/categories/india/</loc>
     <lastmod>2014-03-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -443,7 +430,6 @@
   <url>
     <loc>http://example.org/tags/planning/</loc>
     <lastmod>2014-02-02T07:56:08+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
