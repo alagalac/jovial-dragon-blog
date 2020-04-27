@@ -1,10 +1,10 @@
 ---
 title: 'Cycling in Cambridge'
 date: Mon, 02 Apr 2018 15:58:28 +0000
-cover: '/img/uk'
+cover: '/img/europe/cycling-in-cambridge/'
 tags: [bicycles, cloudy, coffee, countryside, flowers, river, roast, university]
-
-categories: [UK]---
+categories: [UK]
+---
 
 Over the Easter break we got up bright and early to catch a train to the university city of Cambridge.
 

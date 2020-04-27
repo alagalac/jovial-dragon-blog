@@ -1,10 +1,10 @@
 ---
 title: 'The Monument to the Great Fire'
 date: Sun, 28 May 2017 19:57:11 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/monument-great-fire/'
 tags: [history, landmark, london, tower]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 Last weekend we walked up the Monument, which was built to commemorate the Great Fire of London. 
 

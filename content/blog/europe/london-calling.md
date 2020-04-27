@@ -1,10 +1,10 @@
 ---
 title: 'London calling'
 date: Wed, 05 Apr 2017 08:49:50 +0000
-cover: '/img/united-kingdom'
+cover: '/img/europe/london-calling/'
 tags: [JKintheUK, london, New Zealand, Youth Mobility Visa]
-
-categories: [United Kingdom]---
+categories: [United Kingdom]
+---
 
 Hi everyone, Kimmie here. Welcome to our next blogging adventure! In January, we bought one-way tickets to London (departing May 7, 2017). This was a very emotional decision for us. We’d been talking about moving to the U.K. for several years. It was one of those topics that our friends probably got sick of us mentioning. They were probably sceptical about whether we’d ever actually do it. Fair enough too. We weren’t entirely convinced we would either. What made us finally take the plunge then? Well:
 

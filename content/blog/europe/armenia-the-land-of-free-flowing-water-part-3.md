@@ -1,10 +1,10 @@
 ---
 title: 'Armenia - the land of free flowing water (part 3)'
 date: Tue, 29 May 2018 20:16:50 +0000
-cover: '/img/armenia'
+cover: '/img/europe/armenia-the-land-of-free-flowing-water-part-3/'
 tags: [airport, armenia, art, cathedral, church, city, culture, food, history, landscapes, mountain, outdoors, tradition, village, weather, wildlife, wine]
-
-categories: [Armenia]---
+categories: [Armenia]
+---
 
 Kimmie recently visited Armenia, a country not too many Western people get a chance to discover. In this final episode, she talks about what it's like to travel around Armenia, some of the interesting sights and tourist attractions, and as a final added bonus, what its like to visit an Armenian dentist.
 

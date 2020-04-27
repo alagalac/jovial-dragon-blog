@@ -1,10 +1,10 @@
 ---
 title: 'London second impressions'
 date: Fri, 23 Jun 2017 19:47:18 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/london-second-impressions/'
 tags: [londonlife, summer, thetube, weather]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 We've been in London for over a month now and have made quite a few more observations since our [first impressions post](http://coupleofkiwis.com/london-first-impressions/).
 

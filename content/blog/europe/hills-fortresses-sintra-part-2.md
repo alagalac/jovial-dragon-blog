@@ -1,10 +1,10 @@
 ---
 title: 'The hills and fortresses of Sintra (part 2)'
 date: Thu, 29 Mar 2018 21:00:12 +0000
-cover: '/img/portugal'
+cover: '/img/europe/hills-fortresses-sintra-part-2/'
 tags: [architecture, art, castle, ducks, ferns, food, gardens, history, landmark, magic, palace, park, royalty, weather]
-
-categories: [Portugal]---
+categories: [Portugal]
+---
 
 In our last post we covered the beautiful Quinta da Regaleira. In this post, we cover and the Castle of the Moors and Pena Palace. We managed to do all three in the same day - we walked between Quinta da Regaleira and the Castle of the Moors and then used a loop bus for the rest of the day. 
 

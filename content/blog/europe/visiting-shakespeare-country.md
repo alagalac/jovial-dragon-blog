@@ -1,10 +1,10 @@
 ---
 title: 'Visiting Shakespeare country'
 date: Mon, 18 Jun 2018 21:31:13 +0000
-cover: '/img/uk'
+cover: '/img/europe/visiting-shakespeare-country/'
 tags: [castle, culture, famous, gardens, history, landmark, outdoors, park, river, summer, trebuchet, weather, wildlife]
-
-categories: [UK]---
+categories: [UK]
+---
 
 Over the first May Bank holiday weekend we visited Stratford Upon Avon, a medieval market town in England’s West Midlands that is famous for all things Shakespeare!
 

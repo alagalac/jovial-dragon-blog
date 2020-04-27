@@ -1,10 +1,10 @@
 ---
 title: 'Grand old Florence'
 date: Sat, 04 Apr 2020 23:54:34 +0000
-cover: '/img/italy'
+cover: '/img/europe/grand-old-florence/'
 tags: [bell, bicycles, cathedral, gallery, gardens, palace, statue, steak]
-
-categories: [Italy]---
+categories: [Italy]
+---
 
 Our next stop was Florence. We managed to book a private room in a small hostel close to the Duomo in central Florence.
 

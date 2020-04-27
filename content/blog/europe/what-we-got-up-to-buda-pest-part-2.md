@@ -1,10 +1,10 @@
 ---
 title: 'What we got up to in Buda and Pest (Part 2)'
 date: Wed, 30 Aug 2017 18:18:33 +0000
-cover: '/img/hungary'
+cover: '/img/europe/what-we-got-up-to-buda-pest-part-2/'
 tags: [architecture, art, budapest, history, royalty]
-
-categories: [Hungary]---
+categories: [Hungary]
+---
 
 We enjoyed exploring both Buda and Pest, which definitely have different vibes. Here's Part 2, which is about our experience in Pest. If you'd like to read Part 1, [click here](http://coupleofkiwis.com/what-we-got-up-to-buda-pest-part-1/).
 

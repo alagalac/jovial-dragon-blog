@@ -1,10 +1,10 @@
 ---
 title: 'Live at Wembley Stadium'
 date: Sun, 31 Dec 2017 12:31:19 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/live-wembley-stadium/'
 tags: [bucketlist, christmas, crowds, football, present, stadium]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 For Christmas Kimmie bough Jase tickets to go and watch an English Premier League football match between the Tottenham Hotspurs and Southampton.
 

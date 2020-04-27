@@ -1,10 +1,10 @@
 ---
 title: 'Eating and drinking our way around Budapest'
 date: Sat, 19 Aug 2017 09:52:49 +0000
-cover: '/img/hungary'
+cover: '/img/europe/eating-drinking-way-around-budapest/'
 tags: [budapest, coffee, drinks, food, wine]
-
-categories: [Hungary]---
+categories: [Hungary]
+---
 
 One of the best things about travel is that you get to sample new and interesting local delicacies... or at least see how other places serve the same type of food and drink!
 

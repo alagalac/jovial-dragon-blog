@@ -1,10 +1,10 @@
 ---
 title: 'Cinque Terre'
 date: Sun, 05 Apr 2020 04:06:50 +0000
-cover: '/img/italy'
+cover: '/img/europe/cinque-terre/'
 tags: [bread, cat, dinner, ferry, hiking, wine]
-
-categories: [Italy]---
+categories: [Italy]
+---
 
 Our next destination was the five peaceful seaside villages of Cinque Terre.
 

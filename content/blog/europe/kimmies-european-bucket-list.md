@@ -1,10 +1,10 @@
 ---
 title: 'Kimmie''s European bucket list'
 date: Wed, 17 May 2017 17:26:04 +0000
-cover: '/img/travel-planning'
+cover: '/img/europe/kimmies-european-bucket-list/'
 tags: [bucketlist]
-
-categories: [Travel Planning]---
+categories: [Travel Planning]
+---
 
 Some of you noticed that Jase cheated a bit with his European bucket list by including  a non-European destination. Good spotting! :) I've never been to Europe before (other than when I was a baby, and that doesn't count) so I found it very hard creating a top 10 bucket list. There's too much to see and do! But, because Jase didn't provide me with specific parameters for my bucket list, I'm going to cheat in my own way by listing the 10 destinations I most want to visit and what I want to do there. You might notice that many of my ideas revolve around food...
 

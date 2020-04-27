@@ -1,10 +1,10 @@
 ---
 title: 'Discovering Delphi'
 date: Sat, 08 Dec 2018 15:29:15 +0000
-cover: '/img/greece'
+cover: '/img/europe/discovering-delphi/'
 tags: [history, landscapes, ruin, view]
-
-categories: [Greece]---
+categories: [Greece]
+---
 
 From a dirty Athens bus station in the middle of nowhere (they really need to sort that out) we caught a bus through the Greek countryside to Delphi.
 

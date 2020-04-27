@@ -1,10 +1,10 @@
 ---
 title: 'The enchanting Kew Gardens (Part 2)'
 date: Sun, 18 Jun 2017 18:44:41 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/enchanting-kew-gardens-part-2/'
 tags: [architecture, gardens, london, park, summer, weather]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 Here's Part 2 of our Kew Gardens adventure! If you haven't already done so, check out [Part 1](http://coupleofkiwis.com/enchanting-kew-gardens-part-1/).
 

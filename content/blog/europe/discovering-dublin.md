@@ -1,10 +1,10 @@
 ---
 title: 'Discovering Dublin'
 date: Wed, 26 Jun 2019 08:44:26 +0000
-cover: '/img/ireland'
+cover: '/img/europe/discovering-dublin/'
 tags: [beer, brewery, jail, music]
-
-categories: [Ireland]---
+categories: [Ireland]
+---
 
 In February we hopped across to Ireland for a long weekend to experience some Irish food, sexy accents, folk music, and country air.
 

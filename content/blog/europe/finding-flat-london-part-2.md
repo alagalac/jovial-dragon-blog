@@ -1,10 +1,10 @@
 ---
 title: 'Finding a flat in London (Part 2)'
 date: Thu, 01 Jun 2017 22:24:06 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/finding-flat-london-part-2/'
 tags: [flatting, london]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 London's a bit overwhelming, and it's very diverse. Where do you even start to look for a place? What areas are good? No one really gave us hints, and the internet didn't really help either. The main advice we got was to look north or west. In [Part 1](http://coupleofkiwis.com/finding-flat-london-part-1/) we talked about some dos and don’ts of flat hunting in London. In this post we talk about our impressions of the places that we viewed while flat hunting.
 

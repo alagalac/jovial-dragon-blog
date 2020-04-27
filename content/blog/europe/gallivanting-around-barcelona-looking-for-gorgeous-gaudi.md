@@ -1,10 +1,10 @@
 ---
 title: 'Gallivanting around Barcelona looking for gorgeous Gaudí'
 date: Thu, 19 Oct 2017 19:54:26 +0000
-cover: '/img/spain'
+cover: '/img/europe/gallivanting-around-barcelona-looking-for-gorgeous-gaudi/'
 tags: [architecture, art, barcelona, church, famous, gardens, landmark, park]
-
-categories: [Spain]---
+categories: [Spain]
+---
 
 We didn't think we would leave Barcelona as Antoni Gaudí fans, but it happened! His work is very inspired, and he had such an amazing imagination and sense of creativity. We wish that more architects would follow in his footsteps.
 

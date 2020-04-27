@@ -1,10 +1,10 @@
 ---
 title: 'Winter Wonderland'
 date: Wed, 06 Dec 2017 23:13:44 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/winter-wonderland/'
 tags: [art, entertainment, fair, ferriswheel, friends, ice, lights, londonlife, market, park, rides, rollercoaster, weather]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 The other week we checked out Winter Wonderland in Hyde Park with our friend Megan, who was over from New Zealand. Apparently, Winter Wonderland has been going strong for over 10 years, and it started as an open-air market. It now has ice skating, shows, roller coaster rides, street food stalls, festive bars, and live music.
 

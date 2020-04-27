@@ -1,10 +1,10 @@
 ---
 title: 'The canals of Venice'
 date: Sat, 28 Mar 2020 04:57:37 +0000
-cover: '/img/italy'
+cover: '/img/europe/the-canals-of-venice/'
 tags: [baking, bridge, colourful, seafood, tapas, tower]
-
-categories: [Italy]---
+categories: [Italy]
+---
 
 In May 2019 is was finally time for us to bid London good-bye for now. However before we landed back in New Zealand we went on one last hurrah. There was one last major European destination which had eluded us so far: Italy. So on our way home we spent three weeks holidaying around Italy.
 

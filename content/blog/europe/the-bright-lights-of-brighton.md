@@ -1,10 +1,10 @@
 ---
 title: 'The bright lights of Brighton'
 date: Wed, 27 Sep 2017 20:26:33 +0000
-cover: '/img/uk'
+cover: '/img/europe/the-bright-lights-of-brighton/'
 tags: [beach, chocolate, coffee, daytrip, entertainment, fishandchips, pier, seaside]
-
-categories: [UK]---
+categories: [UK]
+---
 
 A few weekends ago we caught the train down to Brighton for the day.
 

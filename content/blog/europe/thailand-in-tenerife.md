@@ -1,10 +1,10 @@
 ---
 title: 'Thailand in Tenerife'
 date: Sat, 20 Jan 2018 12:40:33 +0000
-cover: '/img/spain'
+cover: '/img/europe/thailand-in-tenerife/'
 tags: [beach, bucketlist, entertainment, rollercoaster, thai, themepark, water, weather]
-
-categories: [Spain]---
+categories: [Spain]
+---
 
 Recently we ventured over to Tenerife, one of the Canary Islands, for some winter sun. No visit would be complete without a trip to the world's best water park, [Siam Park](http://siampark.net/index.php/en/).
 

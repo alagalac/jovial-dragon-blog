@@ -1,10 +1,10 @@
 ---
 title: 'Armenia - the land of free flowing water'
 date: Wed, 02 May 2018 21:20:36 +0000
-cover: '/img/armenia'
+cover: '/img/europe/armenia-the-land-of-free-flowing-water/'
 tags: [airport, armenia, art, cathedral, church, city, culture, food, history, landscapes, mountain, outdoors, tradition, village, weather, wildlife, wine]
-
-categories: [Armenia]---
+categories: [Armenia]
+---
 
 Kimmie recently visited Armenia, a country not too many Western people get a chance to discover. In this post she compares urban Yerevan with the more laid back lifestyle in Armenian villages.
 

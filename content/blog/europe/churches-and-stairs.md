@@ -1,10 +1,10 @@
 ---
 title: 'Churches and stairs'
 date: Wed, 12 Jul 2017 19:17:54 +0000
-cover: '/img/france'
+cover: '/img/europe/churches-and-stairs/'
 tags: [church, paris]
-
-categories: [France]---
+categories: [France]
+---
 
 Last Saturday we enjoyed our first full day in Paris. The sun was shining and the temperature was a hot 33 degrees! And so out we went adventuring about the city.
 

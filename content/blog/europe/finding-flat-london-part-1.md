@@ -1,10 +1,10 @@
 ---
 title: 'Finding a flat in London (Part 1)'
 date: Thu, 25 May 2017 20:09:13 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/finding-flat-london-part-1/'
 tags: [flatting, london]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 On Friday we finally found a place to live in London! Thank goodness – it has been a painful and exhausting journey. We've been all over the place, looking at up to four flats a day (spread out across opposite sides of London!) and almost one every day since we arrived! Reflecting on our experience, we have learned some dos and don'ts of flat hunting in London, which we will focus on in this post. In Part 2, we'll talk a bit about flats we visited, including their surrounding area.
 

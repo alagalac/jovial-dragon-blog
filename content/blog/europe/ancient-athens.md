@@ -1,10 +1,10 @@
 ---
 title: 'Ancient Athens'
 date: Tue, 27 Nov 2018 21:12:36 +0000
-cover: '/img/greece'
+cover: '/img/europe/ancient-athens/'
 tags: [ancient, architecture, art, bucketlist, city, coffee, culture, famous, food, history, landmark, museum, temple, weather]
-
-categories: [Greece]---
+categories: [Greece]
+---
 
 After surviving the sardine tin of Santorini airport (the building is tiny and unable to cope with all the tourists!) we took a surprisingly pleasant and short Olympic Air flight to Athens. Definitely can't complain about that £20 flight.
 

@@ -1,10 +1,10 @@
 ---
 title: 'Auld Reekie'
 date: Mon, 19 Feb 2018 21:05:00 +0000
-cover: '/img/uk'
+cover: '/img/europe/auld-reekie/'
 tags: [food, haggis, hike, hill, history, palace, parliament, royalty, ruin, scotland, tour, weather]
-
-categories: [UK]---
+categories: [UK]
+---
 
 A few weeks ago Kimmie had a work meeting in Edinburgh. We decided to head up earlier and make a holiday out of it so we could get a small taste of Scotland.
 

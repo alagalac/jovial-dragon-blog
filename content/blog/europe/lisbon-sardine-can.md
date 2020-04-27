@@ -1,10 +1,10 @@
 ---
 title: 'Lisbon in a Sardine Can'
 date: Wed, 21 Mar 2018 22:27:19 +0000
-cover: '/img/portugal'
+cover: '/img/europe/lisbon-sardine-can/'
 tags: [bakery, fish, funicular, lisbon, tapas, tart, tram]
-
-categories: [Portugal]---
+categories: [Portugal]
+---
 
 When it comes to deciding where to have a getaway, we have a few criteria. Ideally it's cheap, interesting, has good food, and also better weather than London! Several people have recommended Lisbon to us, so we decided to check it out for ourselves.
 

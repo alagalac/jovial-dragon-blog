@@ -1,10 +1,10 @@
 ---
 title: 'Brno under the snow'
 date: Sun, 24 Dec 2017 23:28:03 +0000
-cover: '/img/czechia'
+cover: '/img/europe/brno-under-the-snow/'
 tags: [bones, castle, christmas, church, food, grave, lake, snow, spa, train, vineyard, wine]
-
-categories: [Czechia]---
+categories: [Czechia]
+---
 
 During our Czechia trip, we caught the early morning train through the snowy countryside from Prague to Brno, Czechia's second biggest city. Below are some of our trip highlights.
 

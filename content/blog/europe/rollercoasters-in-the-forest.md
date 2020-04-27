@@ -1,10 +1,10 @@
 ---
 title: 'Rollercoasters in the Forest'
 date: Fri, 01 Jun 2018 05:42:08 +0000
-cover: '/img/uk'
+cover: '/img/europe/rollercoasters-in-the-forest/'
 tags: [bucketlist, famous, gardens, landmark, outdoors, porkpie, rollercoaster, themepark, thrill]
-
-categories: [UK]---
+categories: [UK]
+---
 
 Never one to waste a good weekend, Kimmie managed to persuade Jase to catch a train up to Stoke on Trent to visit Alton Towers, thus ticking another thing off her bucket list.
 

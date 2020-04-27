@@ -1,10 +1,10 @@
 ---
 title: 'Eating at Bao'
 date: Sun, 17 Sep 2017 19:21:58 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/eating-at-bao/'
 tags: [food]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 Kimmie ate at the famous [Bao](https://baolondon.com/) in Soho during her lunch break. Here are her thoughts. 
 

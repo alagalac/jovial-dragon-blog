@@ -1,10 +1,10 @@
 ---
 title: 'Oxford and Hogwarts'
 date: Sun, 10 Sep 2017 18:00:41 +0000
-cover: '/img/uk'
+cover: '/img/europe/oxford-and-hogwarts/'
 tags: [architecture, bucketlist, church, famous, history, magic, museum, prestigious, pub, train]
-
-categories: [UK]---
+categories: [UK]
+---
 
 The other weekend we caught the train up to Oxford for a weekend getaway.
 

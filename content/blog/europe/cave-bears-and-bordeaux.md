@@ -1,10 +1,10 @@
 ---
 title: 'Cave bears and Bordeaux'
 date: Sat, 21 Jul 2018 21:08:02 +0000
-cover: '/img/france'
+cover: '/img/europe/cave-bears-and-bordeaux/'
 tags: [architecture, baguette, castle, cave, cheese, history, outdoors, river, summer, town, vineyard, weather, wine]
-
-categories: [France]---
+categories: [France]
+---
 
 Early July we caught a flight down to Bordeaux to have some good times among the vines with Jase's parents.
 

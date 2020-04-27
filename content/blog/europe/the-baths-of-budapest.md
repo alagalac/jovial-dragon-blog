@@ -1,10 +1,10 @@
 ---
 title: 'The baths of Budapest'
 date: Mon, 04 Sep 2017 17:56:24 +0000
-cover: '/img/hungary'
+cover: '/img/europe/the-baths-of-budapest/'
 tags: [bucketlist, budapest, pool, spa, summer]
-
-categories: [Hungary]---
+categories: [Hungary]
+---
 
 While we were in Budapest we made sure to cross off one of the items on [Jase's bucket list](http://coupleofkiwis.com/jases-european-bucket-list/) by visiting a few of the famous thermal baths.
 

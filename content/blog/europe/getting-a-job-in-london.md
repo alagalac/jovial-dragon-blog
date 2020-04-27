@@ -1,10 +1,10 @@
 ---
 title: 'Getting a job in London'
 date: 
-cover: '/img/life-in-london'
+cover: '/img/europe//'
 tags: [bureaucracy, job, londonlife]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 Jase did not have to worry about finding a job in London as he received a  job transfer to his organisation's London office. Kimmie was not so lucky and had to navigate her way through the big, scary, and confusing London job market. This post is about her experience. 
 

@@ -1,10 +1,10 @@
 ---
 title: 'Walking down Masca Gorge'
 date: Sat, 27 Jan 2018 09:09:43 +0000
-cover: '/img/spain'
+cover: '/img/europe/walking-masca-gorge/'
 tags: [beach, birds, boat, goats, hiking, nature, road, steak, walk, weather]
-
-categories: [Spain]---
+categories: [Spain]
+---
 
 Kimmie was keen to get out into nature, so she suggested that we try the Masca Gorge walk. It can be done in a day, and takes about 3 hours to complete. 
 

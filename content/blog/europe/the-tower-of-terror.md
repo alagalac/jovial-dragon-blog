@@ -1,10 +1,10 @@
 ---
 title: 'The tower of terror'
 date: Fri, 12 May 2017 12:59:59 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/the-tower-of-terror/'
 tags: [castle, landmark, london, royalty]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 Yesterday we were up bright and early to visit the [Tower of London](http://www.hrp.org.uk/tower-of-london/).  Here are some of our thoughts.  We ordered our tickets online as it worked out about 15% cheaper than buying the tickets at the gate. We had to queue for a little while to pick up our tickets, but we still managed to make it through the entry just after it opened. \[caption id="attachment_182" align="aligncenter" width="600"\]![The White Tower in the middle of the Tower of London.](http://coupleofkiwis.com/wp-content/uploads/2017/05/tower-of-london-300x169.jpg) The White Tower in the middle of the Tower of London.\[/caption\]
 

@@ -1,10 +1,10 @@
 ---
 title: 'Bathing in Beer'
 date: Sat, 09 Dec 2017 23:58:57 +0000
-cover: '/img/czechia'
+cover: '/img/europe/bathing-in-beer/'
 tags: [beer, bucketlist, pampering, prague, relaxing, spa]
-
-categories: [Czechia]---
+categories: [Czechia]
+---
 
 We recently visited Prague. While there, Jase surprised Kimmie by suggesting one of Kimmie's favourite things - being pampered at a health spa. However, this was no ordinary spa. In this spa, you bathe in beer!
 

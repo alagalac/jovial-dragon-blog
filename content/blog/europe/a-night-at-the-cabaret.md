@@ -1,10 +1,10 @@
 ---
 title: 'A night at the cabaret'
 date: Fri, 04 Aug 2017 06:28:53 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/a-night-at-the-cabaret/'
 tags: [entertainment, friends, londonlife, show]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 Kimmie won 4 tickets to a [London Cabaret Club](http://www.thelondoncabaretclub.com/) show called "The Best of British Pop". We didn't know what to expect, but we couldn't really complain about free entertainment in London!
 

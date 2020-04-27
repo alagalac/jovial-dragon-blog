@@ -1,10 +1,10 @@
 ---
 title: 'Wrapping up Tenerife'
 date: Sat, 03 Feb 2018 16:19:28 +0000
-cover: '/img/spain'
+cover: '/img/europe/wrapping-up-tenerife/'
 tags: [accommodation, beach, food, hostel, pool, rocks, sangria, spa]
-
-categories: [Spain]---
+categories: [Spain]
+---
 
 As you’ll have seen from our earlier posts, we recently travelled to Tenerife for Jase’s birthday. This is the last post on our trip to Tenerife, and provides an overall summary.
 

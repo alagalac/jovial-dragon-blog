@@ -1,10 +1,10 @@
 ---
 title: '​Catching the Eurostar'
 date: Mon, 10 Jul 2017 21:11:15 +0000
-cover: '/img/france'
+cover: '/img/europe/%e2%80%8bcatching-eurostar/'
 tags: [bucketlist, delays, thetube, train]
-
-categories: [France]---
+categories: [France]
+---
 
 We bought [Eurostar](http://www.eurostar.com/uk-en) train tickets soon after arriving in London as we had heard that tickets are cheaper the earlier you book. Our tickets cost £45 one way and £39 the other. Sometimes you can be lucky enough to score tickets for about £29 one way (though, you might have to travel on weird dates). We timed our Friday – Monday Paris trip for when our friends were going to be there.
 

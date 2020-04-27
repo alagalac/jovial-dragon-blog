@@ -1,10 +1,10 @@
 ---
 title: 'The Suffolk countryside'
 date: Wed, 02 Aug 2017 21:48:48 +0000
-cover: '/img/uk'
+cover: '/img/europe/the-suffolk-countryside/'
 tags: [beach, church, cottage, countryside, history, scenery, summer]
-
-categories: [UK]---
+categories: [UK]
+---
 
 Since arriving in London we've hardly been outside [zone 2](http://content.tfl.gov.uk/standard-tube-map.pdf), other than for our trip to Paris. So last weekend we caught the train up to visit some of Jase's family in Suffolk and to see the English countryside.
 

@@ -1,10 +1,10 @@
 ---
 title: 'The amazing Hyde Park'
 date: Sat, 03 Jun 2017 22:27:07 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/the-amazing-hyde-park/'
 tags: [bicycles, bucketlist, landmark, londonlife, park, summer, weather]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 Today we explored the beautiful Hyde Park. It was an amazingly sunny day (for anyone who ever wondered, or who thought it was a myth – I can confirm that it is in fact possible to get quite sun burnt in London!).
 

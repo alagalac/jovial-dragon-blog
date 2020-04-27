@@ -1,10 +1,10 @@
 ---
 title: 'The most romantic island on earth'
 date: Sun, 11 Nov 2018 22:30:46 +0000
-cover: '/img/greece'
+cover: '/img/europe/the-most-romantic-island-on-earth/'
 tags: [boat, bucketlist, food, hike, island, landscapes, outdoors, sailing, scenery, sunset, swimming, view, volcano]
-
-categories: [Greece]---
+categories: [Greece]
+---
 
 In September we headed off for some late summer sun in Greece. Our first holiday pit stop was the stunning island of Santorini. Being summer, every day was magnificently warm, sunny, and cloudless.
 

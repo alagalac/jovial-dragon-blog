@@ -1,10 +1,10 @@
 ---
 title: 'Spotlight on: Notting Hill'
 date: Mon, 22 May 2017 22:08:56 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/spotlight-notting-hill/'
 tags: [famous, landmark, london, market]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 Over the weekend we decided to pay a visit to Notting Hill.
 

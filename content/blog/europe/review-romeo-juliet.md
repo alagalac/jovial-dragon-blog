@@ -1,10 +1,10 @@
 ---
 title: 'Review: Romeo and Juliet'
 date: Tue, 27 Jun 2017 19:38:47 +0000
-cover: '/img/reviews'
+cover: '/img/europe/review-romeo-juliet/'
 tags: [famous, history, london, shakespeare, show, theatre]
-
-categories: [Reviews]---
+categories: [Reviews]
+---
 
 Last Sunday we headed along to the [Shakespeare's Globe](http://www.shakespearesglobe.com/) theatre to watch a production of Romeo and Juliet.
 

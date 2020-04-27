@@ -1,10 +1,10 @@
 ---
 title: 'Sziget'
 date: Sun, 20 Aug 2017 11:34:00 +0000
-cover: '/img/hungary'
+cover: '/img/europe/sziget/'
 tags: [art, budapest, entertainment, music, party, show]
-
-categories: [Hungary]---
+categories: [Hungary]
+---
 
 While we were in Budapest we spent three days at the Sziget festival.
 

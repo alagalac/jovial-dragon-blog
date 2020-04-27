@@ -1,10 +1,10 @@
 ---
 title: 'The Art and Science of Wine Blending'
 date: Tue, 20 Jun 2017 20:02:46 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/art-science-wine-blending/'
 tags: [friends, london, park, summer, wine]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 Last Friday we tried our hand at the "fine art" of wine blending. We went with a group of friends that we met here in London.
 

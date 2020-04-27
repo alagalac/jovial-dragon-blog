@@ -1,10 +1,10 @@
 ---
 title: 'Lake Como'
 date: Sun, 05 Apr 2020 05:42:48 +0000
-cover: '/img/italy'
+cover: '/img/europe/lake-como/'
 tags: [lake, misty, mountain, scenery, wine]
-
-categories: [Italy]---
+categories: [Italy]
+---
 
 The final stop on our grand tour was Varenna, on the shore of Lake Como. Sadly the weather did not seem to want to co-operate with us while we were there, but the scenery was still dramatic and atmospheric. Lots of photos of misty mountains incoming!
 

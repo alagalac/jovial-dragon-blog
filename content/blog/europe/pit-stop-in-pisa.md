@@ -1,10 +1,10 @@
 ---
 title: 'Pit stop in Pisa'
 date: Sun, 05 Apr 2020 00:08:52 +0000
-cover: '/img/italy'
+cover: '/img/europe/pit-stop-in-pisa/'
 tags: [coffee, river, statue, tower]
-
-categories: [Italy]---
+categories: [Italy]
+---
 
 We needed to change trains on our way to Monterosso, so we thought that we may as well make the most of it and stop off in Pisa briefly to check out the leaning tower. Some things you just have to do while you’re in Italy, right?
 

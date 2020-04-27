@@ -1,10 +1,10 @@
 ---
 title: 'Vienna and its magical Christmas markets'
 date: Tue, 26 Dec 2017 22:21:19 +0000
-cover: '/img/austria'
+cover: '/img/europe/vienna-christmas-markets/'
 tags: [architecture, bus, christmas, coffee, crockery, food, horse, iceskating, lights, lunch, market, museum, royalty, silverware, snow, vienna, weather]
-
-categories: [Austria]---
+categories: [Austria]
+---
 
 After Prague and Brno, we crossed the border into Austria, bound for Vienna.
 

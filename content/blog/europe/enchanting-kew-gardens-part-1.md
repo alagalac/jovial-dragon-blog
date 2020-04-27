@@ -1,10 +1,10 @@
 ---
 title: 'The enchanting Kew Gardens (Part 1)'
 date: Wed, 14 Jun 2017 21:32:54 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/enchanting-kew-gardens-part-1/'
 tags: [gardens, london, londonlife, park, royalty, summer]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 If you enjoy the outdoors it'd pretty hard for you not to like [Kew Gardens](http://www.kew.org/). There's something there for everyone. We managed to spend the whole day at the gardens as there was so much to do and see. Because of this, we also took lots of pictures! We've therefore split this post into two parts.
 

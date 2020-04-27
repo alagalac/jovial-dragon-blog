@@ -1,10 +1,10 @@
 ---
 title: 'Armenia – the land of free flowing water (part 2)'
 date: Thu, 17 May 2018 20:08:23 +0000
-cover: '/img/armenia'
+cover: '/img/europe/armenia-the-land-of-free-flowing-water-part-2/'
 tags: [airport, armenia, art, cathedral, church, city, culture, dancing, food, history, landscapes, mountain, music, outdoors, tradition, village, weather, wildlife, wine]
-
-categories: [Armenia]---
+categories: [Armenia]
+---
 
 Kimmie recently visited Armenia, a country not too many Western people get a chance to discover. In part 2, she covers her thoughts on the Armenian landscape and wildlife, Armenian people, some Armenian traditions, Armenian cuisine and dining culture, and personal safety and political unrest.
 

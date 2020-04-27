@@ -1,10 +1,10 @@
 ---
 title: 'Review: The Mousetrap'
 date: Fri, 09 Jun 2017 21:11:52 +0000
-cover: '/img/reviews'
+cover: '/img/europe/review-the-mousetrap/'
 tags: [famous, londonlife, show, theatre, westend]
-
-categories: [Reviews]---
+categories: [Reviews]
+---
 
 Last weekend we went out to London's West End to see the play "The Mousetrap" by Dame Agatha Christie.
 

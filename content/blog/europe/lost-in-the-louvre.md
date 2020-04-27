@@ -1,10 +1,10 @@
 ---
 title: 'Lost in the Louvre'
 date: Sat, 15 Jul 2017 08:52:03 +0000
-cover: '/img/france'
+cover: '/img/europe/lost-in-the-louvre/'
 tags: [architecture, art, famous, history, landmark, museum]
-
-categories: [France]---
+categories: [France]
+---
 
 On Sunday we enjoyed wandering around the [Louvre](http://www.louvre.fr/en) for several hours. We hope you like pictures. Our photo collection is almost as grand as the Louvre. Just kidding.
 

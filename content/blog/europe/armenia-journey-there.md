@@ -1,10 +1,10 @@
 ---
 title: 'Armenia - My journey there'
 date: Mon, 23 Apr 2018 20:17:30 +0000
-cover: '/img/armenia'
+cover: '/img/europe/armenia-journey-there/'
 tags: [airport, armenia, art, cathedral, church, city, culture, food, history, landscapes, mountain, outdoors, tradition, village, weather, wildlife, wine]
-
-categories: [Armenia]---
+categories: [Armenia]
+---
 
 Kimmie recently visited Armenia, a country not too many people get a chance to discover. Below she shares her observations and what she learned along the way.
 

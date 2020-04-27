@@ -1,10 +1,10 @@
 ---
 title: 'The Seven Sisters'
 date: Wed, 04 Jul 2018 20:45:04 +0000
-cover: '/img/uk'
+cover: '/img/europe/the-seven-sisters/'
 tags: [cliff, hike, landscapes, nature, outdoors, pub, summer, weather, wildlife]
-
-categories: [UK]---
+categories: [UK]
+---
 
 Apparently May 2018 was the [sunniest and warmest on record](https://www.theguardian.com/uk-news/2018/jun/02/uk-weather-may-2018-sunniest-warmest-on-record-met-office) in the UK. We made the most of the hot and sunny weather by going on lots of trips around England. One Saturday, we caught the train to Sussex to walk one of the most scenic hikes in the UK: the Seven Sisters coastal cliff walk.
 

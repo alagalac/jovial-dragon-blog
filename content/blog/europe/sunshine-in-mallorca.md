@@ -1,10 +1,10 @@
 ---
 title: 'Sunshine in Mallorca'
 date: Fri, 27 Mar 2020 23:06:57 +0000
-cover: '/img/spain'
+cover: '/img/europe/sunshine-in-mallorca/'
 tags: [beach, bicycles, hiking, train, wine]
-
-categories: [Spain]---
+categories: [Spain]
+---
 
 To escape the winter blues we caught a flight over to Palma de Mallorca in Spain to enjoy the warm sun.
 

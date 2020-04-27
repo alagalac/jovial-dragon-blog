@@ -1,10 +1,10 @@
 ---
 title: 'Getting a bank account, NINO, and BRP'
 date: Sun, 21 May 2017 20:29:46 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/getting-bank-account-nino-brp/'
 tags: [bureaucracy, london, officialdocuments, visas]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 There's a lot of paperwork to sort out when you first arrive in London. We managed to get the ball rolling on some of the more important ones within our first week.
 

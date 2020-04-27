@@ -1,10 +1,10 @@
 ---
 title: 'Le Marais, Paris'
 date: Sun, 23 Jul 2017 17:06:48 +0000
-cover: '/img/france'
+cover: '/img/europe/le-marais-paris/'
 tags: [architecture, food, paris]
-
-categories: [France]---
+categories: [France]
+---
 
 In this post, we describe [Le Marais](https://www.google.co.uk/maps/place/Le+Marais,+Paris,+France/data=!4m2!3m1!1s0x47e66e03cdce4ae9:0x38cfa580446f9e46?sa=X&ved=0ahUKEwjctISo7Z7VAhWDKsAKHWd_CtEQ8gEImwEwDw), which is the Parisian neighborhood where we stayed during our trip to Paris.
 

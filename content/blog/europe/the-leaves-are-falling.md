@@ -1,10 +1,10 @@
 ---
 title: 'The leaves are falling'
 date: Wed, 08 Nov 2017 19:31:01 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/the-leaves-are-falling/'
 tags: [autumn, beer, forest, ghosts, london, spooky, tour]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 It's autumn and the leaves are falling ominously. It's time for Halloween and its pumpkins. The mornings are becoming increasingly chilly, with the occasional fog.
 

@@ -1,10 +1,10 @@
 ---
 title: 'Check out our brand new blog site!'
 date: Mon, 01 May 2017 09:20:35 +0000
-cover: '/img/uncategorized'
+cover: '/img/europe/check-out-our-brand-new-blog-site/'
 tags: []
-
-categories: [Uncategorized]---
+categories: [Uncategorized]
+---
 
 Hi everyone Exciting news! We'll be blogging about our UK adventures on our brand new website:
 

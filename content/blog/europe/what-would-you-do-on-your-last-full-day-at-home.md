@@ -1,10 +1,10 @@
 ---
 title: 'What would you do on your last full day at home?'
 date: Sat, 06 May 2017 10:27:22 +0000
-cover: '/img/travel-planning'
+cover: '/img/europe/what-would-you-do-on-your-last-full-day-at-home/'
 tags: [home, packing]
-
-categories: [Travel Planning]---
+categories: [Travel Planning]
+---
 
 We spent our day doing errands and enjoying the sunshine.  Oh, and dealing with an unexpected surprise!
 

@@ -1,10 +1,10 @@
 ---
 title: 'History in Berlin'
 date: Sat, 12 Jan 2019 16:51:55 +0000
-cover: '/img/germany'
+cover: '/img/europe/history-in-berlin/'
 tags: [art, berlin, gallery, greenman, memorial, museum, rubberducky, wall, war]
-
-categories: [Germany]---
+categories: [Germany]
+---
 
 Just before Christmas we swapped cold, gloomy London for freezing Berlin! Berlin is really a city where you can feel the history all around you. World War 2 and the Cold War still define a lot of the city. While walking around the city you can see a lot of reminders of the past, be it a museum, remains of the Berlin Wall, or just gaps where a building was destroyed and never rebuilt.
 

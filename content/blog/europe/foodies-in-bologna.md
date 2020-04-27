@@ -1,10 +1,10 @@
 ---
 title: 'Foodies in Bologna'
 date: Sat, 28 Mar 2020 22:49:43 +0000
-cover: '/img/italy'
+cover: '/img/europe/foodies-in-bologna/'
 tags: [coffee, food, ice-cream, market, pasta, tower, train]
-
-categories: [Italy]---
+categories: [Italy]
+---
 
 Our next stop on out Italian adventure was Bologna, the foodie capital of Italy. We weren't orginally going to vist Bologna, however out accommodation in Florence wasn’t available on two of the days, so we made a stop. We were glad we did.
 

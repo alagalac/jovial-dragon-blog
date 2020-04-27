@@ -1,10 +1,10 @@
 ---
 title: 'Review: Flying Singapore Airlines from Wellington to London'
 date: Fri, 12 May 2017 08:00:43 +0000
-cover: '/img/reviews'
+cover: '/img/europe/review-flying-singapore-airlines-wellington-london/'
 tags: [aeroplanes]
-
-categories: [Reviews]---
+categories: [Reviews]
+---
 
 We recently flew from Wellington to London on Singapore Airlines. During the flights, Kimmie keenly observed the airline’s service, food + drink, entertainment, and extra special touches. Read on to see where Singapore Airlines excelled, and where they could improve.
 

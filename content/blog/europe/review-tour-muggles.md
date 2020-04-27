@@ -1,10 +1,10 @@
 ---
 title: 'Review: Tour for Muggles'
 date: Fri, 26 May 2017 20:53:50 +0000
-cover: '/img/reviews'
+cover: '/img/europe/review-tour-muggles/'
 tags: [famous, londonlife, magic, tour]
-
-categories: [Reviews]---
+categories: [Reviews]
+---
 
 Last Sunday we decided to step into the magical world of Harry Potter with a 2.5 hour walking [Tour for Muggles](https://www.tourformuggles.com/). Below are our thoughts.
 

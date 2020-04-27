@@ -1,10 +1,10 @@
 ---
 title: 'Rambling in the Lakes District'
 date: Sat, 28 Mar 2020 00:17:26 +0000
-cover: '/img/uk'
+cover: '/img/europe/rambling-in-the-lakes-district/'
 tags: [fire, hiking, kayaking, lake, sunset, whiskey]
-
-categories: [UK]---
+categories: [UK]
+---
 
 As our time in the UK was drawing to an end, we decided to take one last domestic holiday up north to the Lakes District. We drove up with our friends on a classic British roadtrip filled with toll roads, traffic jams, car crashes, and dodgy service stations.
 

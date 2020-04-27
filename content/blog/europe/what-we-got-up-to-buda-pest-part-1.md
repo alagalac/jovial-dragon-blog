@@ -1,10 +1,10 @@
 ---
 title: 'What we got up to in Buda and Pest (Part 1)'
 date: Thu, 24 Aug 2017 06:43:01 +0000
-cover: '/img/hungary'
+cover: '/img/europe/what-we-got-up-to-buda-pest-part-1/'
 tags: [architecture, budapest, castle, history, landmark, market]
-
-categories: [Hungary]---
+categories: [Hungary]
+---
 
 We enjoyed exploring both Buda and Pest, which definitely have different vibes. In this two-part post we share some of the fun activities we got up to on both sides of the river. 
 

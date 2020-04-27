@@ -1,10 +1,10 @@
 ---
 title: 'Cocktails and alchemy'
 date: Mon, 18 Dec 2017 22:03:23 +0000
-cover: '/img/czechia'
+cover: '/img/europe/cocktails-and-alchemy/'
 tags: [alchemy, annonymous, bar, cocktails, drinks, history, magic, museum, secret]
-
-categories: [Czechia]---
+categories: [Czechia]
+---
 
 Prague. A pretty place to wander around. But we decided to also check out the cocktail and alchemy scene!
 

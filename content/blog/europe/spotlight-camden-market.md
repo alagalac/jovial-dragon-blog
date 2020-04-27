@@ -1,10 +1,10 @@
 ---
 title: 'Spotlight on: Camden Market'
 date: Tue, 08 Aug 2017 07:08:01 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/spotlight-camden-market/'
 tags: [food, londonlife, market, weather]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 On Sunday it was a beautiful sunny day. We decided to check out the well-known Camden Market. It opened in 1974 with 16 stalls, and it now has over 1,000. The stalls are open 7 days a week.
 

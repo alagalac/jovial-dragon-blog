@@ -1,10 +1,10 @@
 ---
 title: 'London first impressions'
 date: Wed, 10 May 2017 13:13:08 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/london-first-impressions/'
 tags: [bicycles, bureaucracy, londonlife, weather]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 We've been in London for two full days now. Here are our first impressions.
 

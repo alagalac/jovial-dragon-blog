@@ -1,10 +1,10 @@
 ---
 title: 'The Youth Mobility Scheme Visa process (Part 1)'
 date: Sun, 30 Apr 2017 00:20:36 +0000
-cover: '/img/travel-planning'
+cover: '/img/europe/youth-mobility-scheme-visa-process-part-1/'
 tags: [bureaucracy, officialdocuments, visas]
-
-categories: [Travel Planning]---
+categories: [Travel Planning]
+---
 
 A few months ago, Kimmie had to apply for her visa (Jase doesn’t need one as he has a British passport). This two-part series is all about her experience. Part one covers her pre-application research and the application form.
 

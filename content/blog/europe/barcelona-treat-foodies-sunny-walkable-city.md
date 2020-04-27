@@ -1,10 +1,10 @@
 ---
 title: 'Barcelona - a treat for foodies and a sunny walkable city'
 date: Tue, 24 Oct 2017 20:14:09 +0000
-cover: '/img/spain'
+cover: '/img/europe/barcelona-treat-foodies-sunny-walkable-city/'
 tags: [architecture, beach, bicycles, food, market, mountain, park, weather, wine]
-
-categories: [Spain]---
+categories: [Spain]
+---
 
 Barcelona is very flat - perfect for walking and cycling. It is also blessed with beautiful weather, and that's not even whether the pros end!
 

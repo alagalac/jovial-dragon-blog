@@ -1,10 +1,10 @@
 ---
 title: 'The hills and fortresses of Sintra (part 1)'
 date: Sat, 24 Mar 2018 17:13:01 +0000
-cover: '/img/portugal'
+cover: '/img/europe/hills-fortresses-sintra/'
 tags: [architecture, art, castle, food, gardens, history, landmark, magic, royalty, weather]
-
-categories: [Portugal]---
+categories: [Portugal]
+---
 
 We went on a day trip up to Sintra, a beautiful forested municipality near Lisbon city. Sintra was the highlight of our trip to Lisbon, and we 100% recommend it! It's only a one hour train trip from Lisbon.
 

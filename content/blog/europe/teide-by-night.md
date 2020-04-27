@@ -1,10 +1,10 @@
 ---
 title: 'Teide by night'
 date: Wed, 24 Jan 2018 07:34:31 +0000
-cover: '/img/spain'
+cover: '/img/europe/teide-by-night/'
 tags: [entertainment, history, magic, mountain, nationalpark, night, park, sightseeing, sky, stars, tour, volcano, weather]
-
-categories: [Spain]---
+categories: [Spain]
+---
 
 Before we arrived in Tenerife, we booked a stargazing adventure. We had read that the island is one of the best places in the world to observe the stars. 
 

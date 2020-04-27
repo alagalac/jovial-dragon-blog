@@ -1,10 +1,10 @@
 ---
 title: 'Welcome to our new blog'
 date: Fri, 28 Apr 2017 08:19:41 +0000
-cover: '/img/travel-planning'
+cover: '/img/europe/welcome-new-blog/'
 tags: []
-
-categories: [Travel Planning]---
+categories: [Travel Planning]
+---
 
 Kia ora and welcome to our previous blog followers and to those of you who have just joined us. We're excited that you've stumbled upon _Couple of Kiwis_, and we look forward to sharing our adventures, tips, struggles, quirky discoveries, and other experiences with you.
 

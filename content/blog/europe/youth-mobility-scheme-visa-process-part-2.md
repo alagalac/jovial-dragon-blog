@@ -1,10 +1,10 @@
 ---
 title: 'The Youth Mobility Scheme Visa process (Part 2)'
 date: Sun, 07 May 2017 02:18:22 +0000
-cover: '/img/travel-planning'
+cover: '/img/europe/youth-mobility-scheme-visa-process-part-2/'
 tags: [bureaucracy, officialdocuments, visas]
-
-categories: [Travel Planning]---
+categories: [Travel Planning]
+---
 
 A few months ago, Kimmie applied for her visa (Jase doesn’t need one as he has a British passport). This two-part series is all about her experience. [Part one](http://coupleofkiwis.com/youth-mobility-scheme-visa-process-part-1/) was about her pre-application research and the application form. Part two covers the biometric appointment, sending off the documents, and her final comments.
 

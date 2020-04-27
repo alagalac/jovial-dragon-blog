@@ -1,10 +1,10 @@
 ---
 title: 'Warming German food on cold days'
 date: Mon, 11 Feb 2019 21:57:57 +0000
-cover: '/img/germany'
+cover: '/img/europe/warming-german-food-on-cold-days/'
 tags: [chocolate, christmas, cold, drinks, food, iceskating, market, museum]
-
-categories: [Germany]---
+categories: [Germany]
+---
 
 It was cold outside. Very cold. So, what more did we want to do after a day's exploring than to retreat somewhere cozy and devour something comforting? This post focuses on the culinary belly-filling delights of Berlin.
 

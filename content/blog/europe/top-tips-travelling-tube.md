@@ -1,10 +1,10 @@
 ---
 title: 'Top tips for travelling on the tube'
 date: Sat, 23 Sep 2017 21:00:45 +0000
-cover: '/img/life-in-london'
+cover: '/img/europe/top-tips-travelling-tube/'
 tags: [delays, london, thetube, train]
-
-categories: [Life in London]---
+categories: [Life in London]
+---
 
 During the few short months we've been here in London we've caught many tubes. We decided there's a bit of an art to catching the tube, and we thought we'd share some of our tips and observations with you. \[caption id="attachment_1061" align="aligncenter" width="600"\]![East Acton tube station.](http://coupleofkiwis.com/wp-content/uploads/2017/09/tube-ea-600x337.jpg) East Acton tube station.\[/caption\]
 
