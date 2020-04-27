@@ -1,0 +1,24 @@
+---
+title: 'The baths of Budapest'
+date: Mon, 04 Sep 2017 17:56:24 +0000
+cover: '/img/hungary'
+tags: [bucketlist, budapest, pool, spa, summer]
+
+categories: [Hungary]---
+
+While we were in Budapest we made sure to cross off one of the items on [Jase's bucket list](http://coupleofkiwis.com/jases-european-bucket-list/) by visiting a few of the famous thermal baths.
+
+Gellért Baths
+-------------
+
+The first bath which we visited was the [Gellért Baths](http://gellertspa.com/). \[caption id="attachment_968" align="aligncenter" width="600"\]![The Gellért Baths.](http://coupleofkiwis.com/wp-content/uploads/2017/08/baths_gellert-600x338.jpg) The Gellért Baths.\[/caption\] We didn't initially realise, but the Gellért baths are actually at the back of the huge and impressive-looking Hotel Gellért. The foyer area where you get your tickets to the baths was really spacious and pretty. An attraction in itself! \[caption id="attachment_981" align="aligncenter" width="600"\]![One end of the foyer.](http://coupleofkiwis.com/wp-content/uploads/2017/09/gellert-600x419.jpg) One end of the foyer.\[/caption\] After figuring out the locker system, which was not entirely straightforward, we headed down to the indoor thermal baths. There were plenty of pools of different temperatures to choose from. We soaked in a few while admiring the statues, pretty murals, and tile mosaics. The place felt quite old. It probably would have been quite serene if people had obeyed the "SILENCE" signs, as conversation echoed between the walls. Indoors they also had a swimming pool. This pool was policed by a man with a whistle who stopped people who dared to get in the pool and swim without a swimming cap! \[caption id="attachment_971" align="aligncenter" width="600"\]![The indoor swimming pool.](http://coupleofkiwis.com/wp-content/uploads/2017/08/baths_gellert_indoors-600x338.jpg) The indoor swimming pool.\[/caption\] The best part about Gellért baths was the large outdoor area where many people sunbathed on deck chairs. In the middle there was a large wave pool, which was apparently the first wave pool ever built. Every hour you'd hear some chimes, after which huge waves were generated. It was really fun! \[caption id="attachment_970" align="aligncenter" width="600"\]![The outdoor area of Gellért Baths.](http://coupleofkiwis.com/wp-content/uploads/2017/08/baths_outdoors_gellert-600x338.jpg) The outdoor area of Gellért Baths.\[/caption\]
+
+**Széchenyi Thermal Baths**
+---------------------------
+
+The second thermal bath we visited was the famous [Széchenyi Thermal Baths](http://www.szechenyibath.hu/), the biggest of its kind in Europe. We'd been warned about longs lines to get into popular Széchenyi. When we arrived at around 11 am there was a small line and it only took us about five minutes to get in. Later, we realised how lucky we had been, as the line was much longer in the afternoon! \[caption id="attachment_976" align="aligncenter" width="600"\]![As we were leaving we saw this long line for one of the side entrances.](http://coupleofkiwis.com/wp-content/uploads/2017/09/baths_afternoon-600x338.jpg) As we were leaving we saw this long line for one of the side entrances.\[/caption\] The baths are huge, and there are about 18 different pools to choose from. Most of the pools are inside, with about 3 outside. Kimmie was eager to try them all! We ended up soaking in quite a few of the pools, but some we liked more than others, and we made sure to revisit them. The ones we liked were around 36 degrees Celsius. \[caption id="attachment_977" align="aligncenter" width="600"\]![A fountain in one of the outdoor pools.](http://coupleofkiwis.com/wp-content/uploads/2017/09/baths_fountain-600x338.jpg) A fountain in one of the outdoor pools.\[/caption\] We soaked in the pools for almost the entire day; so long that our fingernails and toenails started to go yellow from all of the minerals in the water! We were not alone in our long-time soaking though. Outside, we noticed some Hungarian men playing chess in the pool! \[caption id="attachment_973" align="aligncenter" width="600"\]![The outdoors whirlpool.](http://coupleofkiwis.com/wp-content/uploads/2017/08/baths_sz-600x338.jpg) The outdoor whirlpool.\[/caption\]
+
+Closing thoughts
+----------------
+
+We loved the hot pools that we visited in Budapest! There aren't many similar spas in London, and they are great for relaxing after many hours spent exploring the city. This the last of our posts about Budapest, but we really do hope that we get a chance to go back there one day. Budapest was an amazing city to visit! Jase and Kimmie

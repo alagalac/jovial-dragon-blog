@@ -1,8 +1,9 @@
 ---
 title: 'Parks and Recreation'
 date: Fri, 25 Nov 2016 13:38:57 +0000
-draft: false
-tags: [Thailand]
+cover: '/img/thailand/parks-and-recreation/'
+tags: []
+categories: [Thailand]
 ---
 
 This morning we didn't really know what to do with ourselves. It seems that we've basically done Bangkok. All of the "Top things to to in Bangkok" lists are basically the same:

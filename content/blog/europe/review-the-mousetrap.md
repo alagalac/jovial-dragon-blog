@@ -1,0 +1,14 @@
+---
+title: 'Review: The Mousetrap'
+date: Fri, 09 Jun 2017 21:11:52 +0000
+cover: '/img/reviews'
+tags: [famous, londonlife, show, theatre, westend]
+
+categories: [Reviews]---
+
+Last weekend we went out to London's West End to see the play "The Mousetrap" by Dame Agatha Christie.
+
+The mystery lives on
+--------------------
+
+The Mousetrap is by far the longest running show in the world, and it is currently in its 65th year. \[caption id="attachment_376" align="aligncenter" width="600"\]![The Mousetrap sign in front of St Martin's Theatre.](http://coupleofkiwis.com/wp-content/uploads/2017/06/mousetrap-sign-300x169.jpg) The Mousetrap sign in front of St Martin's Theatre.\[/caption\] \[caption id="attachment_385" align="aligncenter" width="600"\]![Jase outside St Martins Theatre.](http://coupleofkiwis.com/wp-content/uploads/2017/06/Jase-mousetrap-600x338.jpg) Jase outside St Martins Theatre.\[/caption\] We bought our tickets online. The variety of West End shows you can see is amazing, and this large supply means that a lot of them are quite reasonably priced (under £20!). The Mousetrap is a consistently popular show. On the day of our performance we overheard a tourist being told multiple times that there were no seats available! He was astounded as it was a 4pm showing, which thought would be less popular. \[caption id="attachment_379" align="aligncenter" width="600"\]![The Mousetrap performance tally.](http://coupleofkiwis.com/wp-content/uploads/2017/06/mousetrap-performance-300x169.jpg) The Mousetrap performance tally.\[/caption\] We had nice seats at the very front of the upper circle. Not only did we have a good view, but we had a ledge to put our drinks on! Handy. We also thought that the inside of the theatre was cute! \[caption id="attachment_382" align="aligncenter" width="600"\]![Waiting for the performance to start.](http://coupleofkiwis.com/wp-content/uploads/2017/06/St-Martins-Theatre-600x338.jpg) Waiting for the performance to start.\[/caption\] The show itself is a murder mystery whodunit, so you're left guessing who the murderer is until the very end. The play was very well done, and the characters seemed very life-like. Perhaps not surprising as there are shows every day of the week except for Sunday, so the actors and actresses get a lot of practice! At the end of the show everyone is sworn to keep the secret of who the murderer is so that "the mystery lives on". \[caption id="attachment_377" align="aligncenter" width="600"\]![Posters for all of the seasons.](http://coupleofkiwis.com/wp-content/uploads/2017/06/mousetrap-awards-300x169.jpg) Posters for all of the seasons.\[/caption\] We enjoyed our time at the theatre. It's definitely a nice way to spend an afternoon/evening! We look forward to seeing more West End shows. Jase and Kimmie

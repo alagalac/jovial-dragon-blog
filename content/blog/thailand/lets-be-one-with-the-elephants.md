@@ -1,8 +1,9 @@
 ---
 title: 'Let''s be one with the elephants'
 date: Wed, 16 Nov 2016 11:39:17 +0000
-draft: false
-tags: [Thailand]
+cover: '/img/thailand/lets-be-one-with-the-elephants/'
+tags: []
+categories: [Thailand]
 ---
 
 G'day all. It's Kimmie again. Jase will blog tomorrow since we'll be doing an activity that Jase chose and that he wants to blog about. Today we visited the [Elephant Nature Park](https://www.elephantnaturepark.org). We chose this activity because of its ethical nature. It's basically a sanctuary for disable/rescued elephants. You don't ride the elephants here and they aren't forced to perform. Usually if you visit the park as a day visitor you are put into groups and you can feed the elephants behind lines on a platform. You are also shepherded around the park with a guide. We wanted a more personal and interactive experience. So while it's more than twice the price of just a day visit, paying a bit extra to take part in a nearby Elephant Nature Park endorsed project means you get to:
