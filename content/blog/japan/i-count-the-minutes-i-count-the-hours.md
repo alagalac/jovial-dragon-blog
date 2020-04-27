@@ -1,6 +1,6 @@
 ---
 title: 'I count the minutes, I count the hours...'
-date: Tue, 01 Sep 2015 10:29:09 +0000
+date: 01 Sep 2015
 cover: '/img/japan/i-count-the-minutes-i-count-the-hours/minutes_bags.jpg'
 tags: []
 categories: [Japan]

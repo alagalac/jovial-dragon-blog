@@ -1,6 +1,6 @@
 ---
 title: 'Welcome to our blog!'
-date: Sun, 23 Aug 2015 10:57:39 +0000
+date: 23 Aug 2015
 cover: '/img/japan/welcome-to-our-blog/'
 tags: []
 categories: [Japan]

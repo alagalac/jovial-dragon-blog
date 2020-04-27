@@ -1,7 +1,7 @@
 ---
 title: 'School reunion!'
-date: Wed, 02 Sep 2015 10:39:24 +0000
-cover: '/img/japan/school-reunion/'
+date: 02 Sep 2015
+cover: '/img/japan/school-reunion/reunion_group.jpg'
 tags: []
 categories: [Japan]
 ---
