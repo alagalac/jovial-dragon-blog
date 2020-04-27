@@ -6,4 +6,4 @@ To run, run `hugo server`.
 
 Content goes inside the content folder.
 
-images go inside the img folder. images should be max width 2000px.
+images go inside the img folder. images should be max width 2000px. Used XnView to do the batch convert, and fix any rotations.

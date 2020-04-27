@@ -1,6 +1,8 @@
 // Styling content, override elements style general from markdown
 .post-content {
   line-height: 1.8;
+  max-width: 600px;
+  margin: auto;
 
   h1,
   h2,
