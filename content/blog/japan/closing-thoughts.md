@@ -1,8 +1,9 @@
 ---
 title: 'Closing thoughts'
 date: Sun, 04 Oct 2015 03:23:14 +0000
-draft: false
-tags: [Japan, Gallery]
+cover: '/img/japan/closing-thoughts/'
+tags: [Gallery]
+categories: [Japan]
 ---
 
 The good:
