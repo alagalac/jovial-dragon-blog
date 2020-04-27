@@ -15,7 +15,7 @@ publishDir = "docs"
   identifier = "blog2"
   url = "/categories/japan"
 [[menu.main]]
-  name = "Jase's India adventure"
+  name = "Jase's Indian adventure"
   weight = 3
   identifier = "blog3"
   url = "/categories/india"
