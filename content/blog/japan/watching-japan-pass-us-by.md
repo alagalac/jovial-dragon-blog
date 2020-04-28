@@ -1,6 +1,6 @@
 ---
 title: 'Watching Japan pass us by'
-date: Sun, 06 Sep 2015 11:01:02 +0000
+date: 06 Sep 2015
 cover: '/img/japan/watching-japan-pass-us-by/'
 tags: []
 categories: [Japan]
